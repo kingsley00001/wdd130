@@ -1,0 +1,64 @@
+/* General Reset */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Header */
+header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Main Section */
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+/* Profile image in main */
+main img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Paragraphs */
+p {
+  padding: 0;
+}
+
+/* Aside Section */
+aside {
+  width: 250px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Aside Image */
+aside img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  border-top: 2px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
